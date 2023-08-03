@@ -1,4 +1,8 @@
 #https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/QuantumultX_EDC-Lazy.conf
+#墨鱼库#https://www.moyunews.com/ddgksf2013/
+#社交ip隐藏自生成#https://github.com/lwd-temp/anti-ip-attribution
+#IP隐藏の分流[不建议使用]#https://raw.githubusercontent.com/ddgksf2013/Filter/master/anti-ip-attribution.list
+
 # ErdongChan-LazyConf
 # Update:2022.11
 # 删除Clubhouse策略组及分流规则；
