@@ -11,5 +11,5 @@
 # 图标库：https://github.com/erdongchanyo/icon
 # ------------------
 # 新版抖音本地分流
-host-suffix, snssdk.com, direct
-host-suffix, amemv.com, direct
+host-suffix, snssdk.com, 抖音
+host-suffix, amemv.com, 抖音
